@@ -1,0 +1,4 @@
+/* Minimal global styles (most styles are inline in components) */
+html, body, #root { height: 100%; margin: 0; }
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #0a0f1e; }
+button { font-family: inherit; }
