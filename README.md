@@ -1,9 +1,5 @@
 # Event Registration Portal
 
-This repo contains a small React app (Vite) originally authored as a single JSX file, now split into a structured project.
-
-Quick start:
-
 1. Install dependencies
 
 ```bash
@@ -27,5 +23,3 @@ Files of interest:
 - `src/components/EventFormModal.jsx` — event create/edit modal
 - `src/utils.js` — constants and helper functions
 - `EventPortal.jsx` — legacy entry that now re-exports `src/App.jsx`
-
-Let me know if you want me to extract more components, add tests, or set up TypeScript.
